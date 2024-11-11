@@ -1,2 +1,2 @@
 # SquadJS-Warn-Player-By-Role 
-The plugin for warn player by his name
+The plugin for warn player by his role
